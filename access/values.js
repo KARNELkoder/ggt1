@@ -3,15 +3,15 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "17.08.2003"; // Дата рождения
-var fullname = "Кичко Дарина Леонідівна" // ФИО
+var birthdate = "04.01.2004"; // Дата рождения
+var fullname = "Микицей Євген Русланович" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
-var passport_id = "176457369" // Номер паспорта
+var passport_id = "3872011238" // Номер паспорта
 
 // КПП
-var kpp_id = "0173656711" // ИНН
+var kpp_id = "3872011238" // ИНН
 
 // Права
 var rights_valid_until = "11.09.2023" // Права "Дійсні до"
