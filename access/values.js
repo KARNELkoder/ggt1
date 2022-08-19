@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "23.03.2004"; // Дата рождения
-var fullname = "Бондар Ілля Артемович" // ФИО
+var birthdate = "03.09.2003"; // Дата рождения
+var fullname = "Мазур Лілія Вікторівна" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
