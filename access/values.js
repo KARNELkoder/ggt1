@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "03.09.2003"; // Дата рождения
-var fullname = "Мазур Лілія Вікторівна" // ФИО
+var birthdate = "17.08.2003"; // Дата рождения
+var fullname = "Кичко Дарина Леонідівна" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
