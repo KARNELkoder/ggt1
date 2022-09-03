@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "12.10.2003"; // Дата рождения
-var fullname = "Рибальченко Андрій Сергійович" // ФИО
+var birthdate = "23.06.2003"; // Дата рождения
+var fullname = "Пачковский Вова Андреевич" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
