@@ -4,7 +4,7 @@ var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
 var birthdate = "31.01.2004"; // Дата рождения
-var fullname = "Голивер Никита Николаевич" // ФИО
+var fullname = "Голівер Микита Миколайович" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
