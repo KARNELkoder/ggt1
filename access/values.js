@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "23.06.2003"; // Дата рождения
-var fullname = "Пачковский Вова Андреевич" // ФИО
+var birthdate = "31.01.2004"; // Дата рождения
+var fullname = "Голивер Никита Николаевич" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
