@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "21.05.2004"; // Дата рождения
-var fullname = "Дехтяренко Ілля Андрійович // ФИО
+var birthdate = "06.02.2004"; // Дата рождения
+var fullname = "Возний Александр Борисович" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
